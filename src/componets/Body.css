@@ -1,6 +1,6 @@
 
 .contact-in {
-    width: 80%;
+    width: 100%;
     height: auto;
     margin: auto;
     display: flex;
@@ -55,7 +55,7 @@
 }
 
 .contact-form-btn {
-    width: 100%;
+    width: 95%;
     border: none;
     outline: none;
     border-radius: 50px;
